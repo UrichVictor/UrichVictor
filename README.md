@@ -3,3 +3,4 @@
 ## Aluno de Desenvolvimento de Sistemas!
 <img height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" /> <img height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" /> <img height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" />
 <img src="https://i.pinimg.com/originals/cb/9d/d2/cb9dd263099adac75b965e94d15b06b4.gif">
+<div class="tenor-gif-embed" data-postid="25059378" data-share-method="host" data-aspect-ratio="0.65" data-width="100%"><a href="https://tenor.com/view/berserk-guts-gif-25059378">Berserk Guts GIF</a>from <a href="https://tenor.com/search/berserk-gifs">Berserk GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
