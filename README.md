@@ -2,7 +2,4 @@
 ### Pro Player em Minecraft e Stardew Valley!!!
 ## Aluno de Desenvolvimento de Sistemas!
 <div><img height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" /> <img height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" /> <img height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" /><div/>
-<div class="abc"><img height="300px" src="guts-berserk.gif"/><div/>
-.abc{
-  align-items: center;
- }
+<div link="center"><img height="300px" src="guts-berserk.gif"/><div/>
