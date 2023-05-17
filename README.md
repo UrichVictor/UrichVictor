@@ -1,5 +1,4 @@
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Urich&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Urich&show_icons=true&theme=transparent)
 ### Pro Player em Minecraft e Stardew Valley!!!
 ## Aluno de Desenvolvimento de Sistemas!
 <div align="center">
