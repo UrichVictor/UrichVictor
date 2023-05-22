@@ -1,7 +1,7 @@
 
 <div align="center">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Urich&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UrichVictor&show_icons=true&theme=transparent)
 <hr>
   <h2>Pro Player em Minecraft e Stardew Valley!!!</h2>
   <h2>Aluno de Desenvolvimento de Sistemas!</h2>
