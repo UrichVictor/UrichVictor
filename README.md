@@ -14,5 +14,5 @@
 <div/>
 <hr>
 <div align="center">
-  <img height="300px" src="guts-berserk.gif"/>
+  <img height="300px" src="berserk-guts.gif"/>
 <div/>
