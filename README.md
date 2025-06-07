@@ -3,8 +3,8 @@
   
 
 <hr>
-  <h2>Pro Player em Minecraft e Stardew Valley!!!</h2>
-  <h2>Aluno de Desenvolvimento de Sistemas!</h2>
+  <h2>Por aqui posto meus projetos!</h2>
+  <h2>Técnico em Desenvolvimento de Sistemas!</h2>
 <div/>
   
 <hr>
